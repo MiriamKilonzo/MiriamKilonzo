@@ -1,16 +1,25 @@
-## Hi there 👋
+### 👋 Hi, I'm Miriam Kilonzo
+Data Scientist | Machine Learning Enthusiast
 
-<!--
-**MiriamKilonzo/MiriamKilonzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data science practitioner passionate about transforming data into actionable insights and building machine learning solutions that solve real-world problems.
 
-Here are some ideas to get you started:
+Currently expanding my expertise in data analytics, machine learning, statistical modeling, and data visualization through hands-on projects and continuous learning.
+### 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 Passionate about Data Science, Analytics, and Machine Learning
+
+🔹 Building end-to-end data projects from data cleaning to model deployment
+
+🔹 Interested in predictive modeling, business intelligence, and data storytelling
+
+🔹 Constantly learning and experimenting with new tools and techniques
+### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
+### 🌐 Connect With Me
+- LinkedIn: www.linkedin.com/in/miriam-kilonzo
+- Email: 9miriamkilonzoh@gmail.com

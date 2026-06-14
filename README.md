@@ -23,3 +23,5 @@ Currently expanding my expertise in data analytics, machine learning, statistica
 ### 🌐 Connect With Me
 - LinkedIn: www.linkedin.com/in/miriam-kilonzo
 - Email: 9miriamkilonzoh@gmail.com
+
+## “Data is only valuable when transformed into insight.”

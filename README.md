@@ -21,7 +21,7 @@ Currently expanding my expertise in data analytics, machine learning, statistica
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
 ### 🌐 Connect With Me
-- LinkedIn: www.linkedin.com/in/miriam-kilonzo
+- LinkedIn: [Miriam Kilonzo](https://www.linkedin.com/in/miriam-kilonzo-307684240/)
 - Email: 9miriamkilonzo@gmail.com
 
 ## “Data is only valuable when transformed into insight.”

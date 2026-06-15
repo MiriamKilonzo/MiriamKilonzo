@@ -22,6 +22,7 @@ Currently expanding my expertise in data analytics, machine learning, statistica
 
 ### Featured projects
 - **[Google Play Store Market Analysis](https://github.com/MiriamKilonzo/google-play-store-market-analysis.git)** — End-to-end CRISP-DM project for a fictional app startup: PySpark data cleaning, Python visualizations, and a Tableau dashboard
+- **[Cancer Diagnosis Classification](https://github.com/MiriamKilonzo/cancer-diagnosis-classification)** — PySpark/Pandas pipeline: data cleaning, descriptive statistics, and feature comparisons across diagnosis classes.
 
 ### 🌐 Connect With Me
 - LinkedIn: [Miriam Kilonzo](https://www.linkedin.com/in/miriam-kilonzo-307684240/)

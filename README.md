@@ -27,6 +27,6 @@ Currently expanding my expertise in data analytics, machine learning, statistica
 ###  Connect With Me
 - LinkedIn: [Miriam Kilonzo](https://www.linkedin.com/in/miriam-kilonzo-307684240/)
 - Email: 9miriamkilonzo@gmail.com
-- Portfolio:[Miriam Kilonzo Portfolio](https://MiriamKilonzo.github.io/my-portfolio/)
+- Portfolio: [Miriam Kilonzo Portfolio](https://MiriamKilonzo.github.io/my-portfolio/)
 
 ### “Data is only valuable when transformed into insight.”

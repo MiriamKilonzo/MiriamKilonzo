@@ -21,7 +21,7 @@ Currently expanding my expertise in data analytics, machine learning, statistica
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
 ## Featured projects
-- **[Google Play Store Market Analysis](git@github.com:MiriamKilonzo/google-play-store-market-analysis.git)** — End-to-end CRISP-DM project for a fictional app startup: PySpark data cleaning, Python visualizations, and a Tableau dashboard
+- **[Google Play Store Market Analysis](https://github.com/MiriamKilonzo/google-play-store-market-analysis.git)** — End-to-end CRISP-DM project for a fictional app startup: PySpark data cleaning, Python visualizations, and a Tableau dashboard
 
 ### 🌐 Connect With Me
 - LinkedIn: [Miriam Kilonzo](https://www.linkedin.com/in/miriam-kilonzo-307684240/)

@@ -28,6 +28,8 @@ I'm passionate about using data, statistics, and machine learning to solve real-
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
 ### Featured Projects
+- **[Credit Risk Modeling](https://github.com/MiriamKilonzo/Credit-risk-modeling)** — Built an end-to-end ML pipeline predicting loan default risk on 20,000 applications for a fintech use case. Tuned Gradient Boosting classifier (F1: 0.921, ROC-AUC: 0.993) with a custom Net Business Value metric to account for asymmetric error costs, delivering an estimated $3.19M in business value on the test set.
+- **[DataVine Analytics: ML Case Studies](https://github.com/MiriamKilonzo/DataVine-Analytics)** — Three independent ML case studies: wine cultivar classification with tuned k-NN (100% test accuracy), a cosine-similarity feed recommendation system, and K-Means/GMM clustering to uncover regional crime patterns in U.S. states.
 - **[Google Play Store Market Analysis](https://github.com/MiriamKilonzo/google-play-store-market-analysis)** — End-to-end CRISP-DM project for a fictional app startup: PySpark data cleaning, Python visualizations, and a Tableau dashboard
 - **[Cancer Diagnosis Classification](https://github.com/MiriamKilonzo/cancer-diagnosis-classification)** — PySpark/Pandas pipeline: data cleaning, descriptive statistics, and feature comparisons across diagnosis classes
 

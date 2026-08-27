@@ -1,9 +1,11 @@
 ### 👋 Hi, I'm Miriam Kilonzo
-Data Scientist | Machine Learning Enthusiast
+Data Science Practitioner | Machine Learning Enthusiast | BSc Statistics
 
-I'm a data science practitioner passionate about transforming data into actionable insights and building machine learning solutions that solve real-world problems.
+I'm passionate about using data, statistics, and machine learning to solve real-world problems and turn complex datasets into meaningful insights.
 
-Currently expanding my expertise in data analytics, machine learning, statistical modeling, and data visualization through hands-on projects and continuous learning.
+I have a background in Statistics and am currently building my expertise in Data Science through hands-on projects, continuous learning, and practical problem-solving.
+
+I enjoy working across the data science lifecycle , from data cleaning and exploration to statistical analysis, visualization, predictive modeling, and machine learning.
 ###  About Me
 
 🔹 Passionate about Data Science, Analytics, and Machine Learning

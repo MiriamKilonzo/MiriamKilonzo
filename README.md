@@ -35,7 +35,7 @@ I'm passionate about using data, statistics, and machine learning to solve real-
 
 ### Connect With Me
 - LinkedIn: [Miriam Kilonzo](https://www.linkedin.com/in/miriam-kilonzo-307684240/)
-- Email: 9miriamkilonzo@gmail.com
+- Email: 9miriamkilonzoh@gmail.com
 - Portfolio: [Miriam Kilonzo Portfolio](https://MiriamKilonzo.github.io/my-portfolio/)
 
 *"Data is only valuable when transformed into insight."*
